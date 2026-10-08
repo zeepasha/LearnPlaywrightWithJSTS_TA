@@ -1,2 +1,2 @@
-# 00_chapter_Prompt_Eng
-Learning prompt engineering
+# Learn Playwright
+Learning Playwright with Javascript/typescript and AI engineering
